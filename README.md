@@ -1,6 +1,6 @@
 
 # TranslatorApp ⬇️
-
+ ![kapil9179](preview.png)
 ## Overview
 TranslatorApp is a versatile language translation tool capable of translating text across 32 different languages. Utilizing the power of React, JavaScript, HTML, and CSS, this application offers a user-friendly interface and efficient translation capabilities.
 
